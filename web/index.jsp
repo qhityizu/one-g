@@ -56,7 +56,6 @@
     <div class="img">
       <i class="icon1"></i><span>联系地址：河南质量工程职业学院</span>
     </div>
-
     <div class="img">
       <i class="icon2"></i><span>联系电话：15038436861</span>
     </div>
