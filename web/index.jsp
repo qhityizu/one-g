@@ -12,22 +12,6 @@
   <meta charset="utf-8" />
   <title>在线学习系统</title>
 </head>
-<script type="text/javascript">
-  function check(form){
-    //检查姓名是否填写
-    var username = form.username.value;
-    if(username.length==0){
-      alert("请填写用户名！");
-      form.username.focus();
-      return false;
-    }
-    var password = form.password.value;
-    if(password.length==0){
-      alert("请填写密码！");
-      form.password.focus();
-      return false;
-    }
-</script>
 <link rel="stylesheet" type="text/css" href="css/index.css" />
 <body>
 <div class="header" id="head">
@@ -64,7 +48,7 @@
 
 <div class="footer" id="foot">
   <div class="copyright">
-    <p>Copyright © 2018 Qunar.com Inc. All Rights Reserved.</p>
+    <p>Copyright © 2019 Qunar.com Inc. All Rights Reserved.</p>
     <div class="img">
       <i class="icon"></i><span>联系邮箱：1918208027@qq.com</span>
     </div>
